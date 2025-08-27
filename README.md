@@ -1,4 +1,3 @@
-# qris-statis-to-qris-dinamis
 # 🔍 QRIS Decoder & Dynamic Generator
 
 Web sederhana untuk **membaca isi QRIS statis** dan **mengubahnya menjadi QRIS dinamis** dengan menambahkan nominal transaksi.  
