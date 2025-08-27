@@ -5,6 +5,20 @@ Dibuat untuk tujuan **belajar format QRIS (EMVCo/Bank Indonesia)**.
 
 ---
 
+**Install Dependencies dengan Composer**  
+   Pastikan sudah menginstal [Composer](https://getcomposer.org/).  
+   Jalankan perintah:
+   ```bash
+   composer require khanamiryan/qrcode-detector-decoder
+   ```
+
+   Atau jika sudah ada `composer.json`, jalankan:
+   ```bash
+   composer install
+   ```
+
+---
+
 ## ✨ Fitur
 - 📷 Scan / Upload QRIS statis
 - 📖 Decode string QRIS dan tampilkan detail per tag
